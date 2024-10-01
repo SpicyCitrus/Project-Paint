@@ -5,3 +5,6 @@ comes out in 2079 and will have a free and premium versions
 
 > [!NOTE] 
 free won't be fully automated
+
+> [!WARNING]
+won't work on all servers
